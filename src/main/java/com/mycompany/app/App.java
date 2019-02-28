@@ -6,7 +6,7 @@ package com.mycompany.app;
 public class App
 {
 
-    private final String message = "Hello World to Ram Ganesh N and Jenkins. Nice commit message.";
+    private final String message = "Hello World to Ram Ganesh N and Jenkins for Poll SCM. Nice commit message.";
 
     public App() {}
 
